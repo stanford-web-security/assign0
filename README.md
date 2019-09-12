@@ -32,7 +32,7 @@ Confirm that it was installed:
 npm --version
 ```
 
-If you have trouble getting Node.js installed, please email the course staff or come to office hours.
+If you have trouble getting Node.js installed, please come to office hours or [open an issue](https://github.com/stanford-web-security/discussion/issues) in the discussion repository.
 
 ### Get the starter code
 
@@ -163,7 +163,7 @@ Ensure that the sanity tests pass:
 npm test
 ```
 
-This command just runs a basic sanity test that ensures your project has the right structure and you didn't leave any required files blank. If `npm test` doesn't report any errors that doesn't necessarily mean that you've done everything perfectly!
+This command just runs a basic sanity test that ensures your project passes `npm run lint`, has the right folder structure, and doesn't have any blank required files. If `npm test` doesn't report any errors that doesn't necessarily mean that you've solved every challenge perfectly!
 
 ### The moment of truth
 
@@ -173,4 +173,8 @@ Submit your work:
 npm run submit
 ```
 
-You should submit early and often! There's no downside to repeatedly submitting. In fact, each time you submit, your code is pushed to GitHub which ensures that if disaster strikes you'll have a backup of your work.
+You should submit early and often! There's no downside to repeatedly submitting your assignment. In fact, each time you submit your code is committed and pushed to GitHub which ensures that if disaster strikes you'll have a backup of your work! 😅
+
+## Questions?
+
+Come to office hours or open an issue in the [discussion](https://github.com/stanford-web-security/discussion/issues) repository.
