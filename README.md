@@ -179,10 +179,11 @@ This command just runs a basic sanity test that ensures your project passes `npm
 
 ### The moment of truth
 
-Submit your work:
+When you're ready to submit your work, run the commands:
 
 ```bash
-npm run submit
+git commit -am 'submit'
+git push
 ```
 
 You should submit early and often! There's no downside to repeatedly submitting your assignment. In fact, each time you submit your code is committed and pushed to GitHub which ensures that if disaster strikes you'll have a backup of your work! 😅
