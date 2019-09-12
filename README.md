@@ -78,14 +78,6 @@ If you have errors, you can automatically fix them most of the time by running:
 npm run lint-fix
 ```
 
-### Run the tests
-
-As you make progress, you should periodically run the test suite.
-
-```bash
-npm test
-```
-
 ## Part 1 – Learn You The HTML For Much Win! (11 points, 1 per exercise)
 
 Run the following command:
@@ -102,15 +94,43 @@ Navigate the menu with the up & down arrow keys. Choose a challenge by hitting e
 
 You can use any text editor you like to, whether it's `vim` or `emacs` or even a visual editor like [Sublime Text](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com).
 
-Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder.  already created starter files you need to edit to complete the challenges. You just need to edit them
+Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder. For example, the first file you need to edit is `src/learnyouhtml/index.html`.
 
-## Part 2 – JavaScripting! (20 points, 1 per exercise)
+Complete all the exercises. There are 11 in total.
+
+It's easiest if you switch into the `src/learnyouhtml` folder and do your work in there. Here's an example:
+
+```bash
+cd src/learnyouhtml
+learnyouhtml # select an exercise to complete
+vim index.html # edit the file in your editor of choice
+... some time passes ...
+learnyouhtml verify index.html # check that you did it correctly!
+```
+
+When you're finished with all the exercises, go on to the next part.
+
+## Part 2 – JavaScripting Adventure! (20 points, 1 per exercise)
 
 Run the following command:
 
 ```bash
 javascripting
 ```
+
+Complete all the exercises. There are 20 in total.
+
+It's easiest if you switch into the `src/javascripting` folder and do your work in there. Here's an example:
+
+```bash
+cd src/javascripting
+javascripting # select an exercise to complete
+vim introduction.js # edit the first file in your editor of choice
+... some time passes ...
+javascripting verify introduction.js # check that you did it correctly!
+```
+
+When you're finished with all the exercises, go on to the next part.
 
 ## Part 3 – Learn You The Node.js For Much Win! (26 points, 2 per exercise)
 
@@ -120,9 +140,23 @@ Open your terminal and run the following command:
 learnyounode
 ```
 
+Complete all the exercises. There are 13 in total.
+
+It's easiest if you switch into the `src/learnyounode` folder and do your work in there. Here's an example:
+
+```bash
+cd src/learnyounode
+learnyounode # select an exercise to complete
+vim hello-world.js # edit the first file in your editor of choice
+... some time passes ...
+learnyounode verify hello-world.js # check that you did it correctly!
+```
+
+When you're finished with all the exercises, go on to the next part.
+
 ## Part 4 – Survey (3 points)
 
-Answer the survey questions in `src/SURVEY.md`.
+Your feedback matters a lot! This is a brand new course, so please help us improve by answering the survey questions in `src/SURVEY.md`. As a reward, enjoy some easy points!
 
 ## Submit
 
@@ -144,4 +178,4 @@ Submit your work:
 npm run submit
 ```
 
-Feel free to submit regularly.
+You should submit early and often! There's no downside to repeatedly submitting. In fact, each time you submit, your code is pushed to GitHub which ensures that if disaster strikes you'll have a backup of your work.
