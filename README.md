@@ -3,8 +3,8 @@
 | Key | Value |
 |-----|-------|
 | Points | 60 |
-| Assigned Date | Monday, September 23 |
-| Due Date | Friday, October 5 at 5:00pm |
+| Assigned | Monday, September 23 |
+| Due | Friday, October 5 at 5:00pm |
 
 Welcome to the first assignment for [CS 253: Web Security](https://cs253.stanford.edu). ✨
 
