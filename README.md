@@ -105,6 +105,8 @@ vim index.html # edit the file in your editor of choice
 learnyouhtml verify index.html # check that you did it correctly!
 ```
 
+If you get stuck, the web is your friend! You can quickly search for a topic and quickly refresh your memory. A good trick is to search for a concept along with the abbreviation `"mdn"`, short for [Mozilla Developer Network](https://developer.mozilla.org/en-US/) which is the best web resource for HTML and JavaScript APIs. So, for example if you want a refresher on how `<script>` tags work, you could search for `"script mdn"`.
+
 When you're finished with all the exercises, go on to the next part.
 
 ## Part 2 – JavaScripting Adventure! (20 points, 1 per exercise)
@@ -146,7 +148,7 @@ You'll see the menu:
 
 Complete all the exercises. There are 13 in total.
 
-Unlike Part 1 and Part 2, this part is likely to contain new material that you might not be familiar with. It is expected that you'll read the Node.js documentation, do web searches, and come to office hours if you're stuck. In the real world, programmers often have to learn topics quickly in a just-in-time manner to solve problems they encounter. This is good practice! If you get stuck, come to office hours or open an issue in the [discussion](https://github.com/stanford-web-security/discussion/issues) repository.
+Unlike Part 1 and Part 2, this part is likely to contain new material that you might not be familiar with. It is expected that you'll read the [Node.js documentation](https://nodejs.org/api/index.html), do web searches, and come to office hours if you're stuck. In the real world, programmers often have to learn topics quickly in a just-in-time manner to solve problems they encounter. This is good practice! If you get stuck, come to office hours or open an issue in the [discussion](https://github.com/stanford-web-security/discussion/issues) repository.
 
 It's easiest if you switch into the `src/learnyounode` folder and do your work in there. Here's an example:
 
