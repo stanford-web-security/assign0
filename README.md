@@ -86,8 +86,6 @@ As you make progress, you should periodically run the test suite.
 npm test
 ```
 
-This command just runs a basic sanity test that ensures your project has the right structure and you didn't leave any required files blank. If `npm test` doesn't report any errors that doesn't necessarily mean that you've done everything perfectly!
-
 ## Part 1 – Learn You The HTML For Much Win! (11 points, 1 per exercise)
 
 Run the following command:
@@ -102,7 +100,9 @@ You'll see the menu:
 
 Navigate the menu with the up & down arrow keys. Choose a challenge by hitting enter.
 
-You can use any text editor you like, whether it's `vim` or `emacs` or even a visual editor like [Sublime Text](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com).
+You can use any text editor you like to, whether it's `vim` or `emacs` or even a visual editor like [Sublime Text](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com).
+
+Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder.  already created starter files you need to edit to complete the challenges. You just need to edit them
 
 ## Part 2 – JavaScripting! (20 points, 1 per exercise)
 
@@ -134,6 +134,8 @@ Ensure that the sanity tests pass:
 npm test
 ```
 
+This command just runs a basic sanity test that ensures your project has the right structure and you didn't leave any required files blank. If `npm test` doesn't report any errors that doesn't necessarily mean that you've done everything perfectly!
+
 ### The moment of truth
 
 Submit your work:
@@ -141,3 +143,5 @@ Submit your work:
 ```bash
 npm run submit
 ```
+
+Feel free to submit regularly.
