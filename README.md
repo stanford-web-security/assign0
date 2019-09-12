@@ -88,7 +88,7 @@ learnyouhtml
 
 You'll see the menu:
 
-<img src="img/learnyouhtml.png" width=500>
+<img src="img/learnyouhtml.png" width=600>
 
 Navigate the menu with the up & down arrow keys. Choose a challenge by hitting enter.
 
@@ -115,6 +115,10 @@ Run the following command:
 javascripting
 ```
 
+You'll see the menu:
+
+<img src="img/javascripting.png" width=600>
+
 Complete all the exercises. There are 20 in total.
 
 It's easiest if you switch into the `src/javascripting` folder and do your work in there. Here's an example:
@@ -135,6 +139,10 @@ Open your terminal and run the following command:
 ```
 learnyounode
 ```
+
+You'll see the menu:
+
+<img src="img/learnyounode.png" width=600>
 
 Complete all the exercises. There are 13 in total.
 
