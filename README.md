@@ -134,7 +134,7 @@ When you're finished with all the exercises, go on to the next part.
 
 ## Part 3 – Learn You The Node.js For Much Win! (26 points, 2 per exercise)
 
-Open your terminal and run the following command:
+Run the following command:
 
 ```
 learnyounode
@@ -145,6 +145,8 @@ You'll see the menu:
 <img src="img/learnyounode.png" width=600>
 
 Complete all the exercises. There are 13 in total.
+
+Unlike Part 1 and Part 2, this part is likely to contain new material that you might not be familiar with. It is expected that you'll read the Node.js documentation, do web searches, and come to office hours if you're stuck. In the real world, programmers often have to learn topics quickly in a just-in-time manner to solve problems they encounter. This is good practice! If you get stuck, come to office hours or open an issue in the [discussion](https://github.com/stanford-web-security/discussion/issues) repository.
 
 It's easiest if you switch into the `src/learnyounode` folder and do your work in there. Here's an example:
 
