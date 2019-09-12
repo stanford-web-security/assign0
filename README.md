@@ -92,9 +92,7 @@ You'll see the menu:
 
 Navigate the menu with the up & down arrow keys. Choose a challenge by hitting enter.
 
-You can use any text editor you like to, whether it's `vim` or `emacs` or even a visual editor like [Sublime Text](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com).
-
-Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder. For example, the first file you need to edit is `src/learnyouhtml/index.html`.
+Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder. For example, the first file you need to edit is `src/learnyouhtml/index.html`. You can use any text editor you like to, whether it's `vim` or `emacs` or even a visual editor like [Sublime Text](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com).
 
 Complete all the exercises. There are 11 in total.
 
