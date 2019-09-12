@@ -102,7 +102,6 @@ It's easiest if you switch into the `src/learnyouhtml` folder and do your work i
 cd src/learnyouhtml
 learnyouhtml # select an exercise to complete
 vim index.html # edit the file in your editor of choice
-... some time passes ...
 learnyouhtml verify index.html # check that you did it correctly!
 ```
 
@@ -124,7 +123,6 @@ It's easiest if you switch into the `src/javascripting` folder and do your work 
 cd src/javascripting
 javascripting # select an exercise to complete
 vim introduction.js # edit the first file in your editor of choice
-... some time passes ...
 javascripting verify introduction.js # check that you did it correctly!
 ```
 
@@ -146,7 +144,6 @@ It's easiest if you switch into the `src/learnyounode` folder and do your work i
 cd src/learnyounode
 learnyounode # select an exercise to complete
 vim hello-world.js # edit the first file in your editor of choice
-... some time passes ...
 learnyounode verify hello-world.js # check that you did it correctly!
 ```
 
