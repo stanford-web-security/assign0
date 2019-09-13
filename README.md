@@ -80,6 +80,8 @@ If you have errors, you can automatically fix them most of the time by running:
 npm run lint-fix
 ```
 
+Now, let's start the assignment. I hope you're ready! 😁
+
 ## Part 1 – Learn You The HTML For Much Win! (11 points, 1 per exercise)
 
 Run the following command:
