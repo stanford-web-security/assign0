@@ -72,6 +72,8 @@ You can check your code by running:
 npm run lint
 ```
 
+If no errors are printed by this command then no code style errors or programmer errors were detected.
+
 If you have errors, you can automatically fix them most of the time by running:
 
 ```bash
