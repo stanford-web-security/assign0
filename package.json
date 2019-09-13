@@ -12,6 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "snazzy": "^8.0.0",
     "standard": "^14.2.0",
     "tap-spec": "^5.0.0",
     "tape": "^4.11.0"
@@ -26,8 +27,8 @@
     "url": "git://github.com/stanford-web-security/assign0.git"
   },
   "scripts": {
-    "lint": "standard",
-    "lint-fix": "standard --fix",
+    "lint": "standard | snazzy",
+    "lint-fix": "standard --fix | snazzy",
     "test": "npm run lint && tape test/*.js | tap-spec"
   }
 }
