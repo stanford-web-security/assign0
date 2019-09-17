@@ -1,4 +1,4 @@
-# CS 253 Assignment 0 – Web Programming Adventure!
+# CS 253 Assignment 0 – Web Programming Adventure ✈️ 🌎
 
 | Key | Value |
 |-----|-------|
