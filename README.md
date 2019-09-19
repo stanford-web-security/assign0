@@ -12,7 +12,7 @@ For this assignment, you're going to be completing several command-line workshop
 
 ### Install Node.js and `npm`
 
-Install [Node.js](https://nodejs.org/en/), a popular JavaScript runtime. Node.js 10 is recommended.
+Install [Node.js](https://nodejs.org/en/), a popular JavaScript runtime. Choose Node.js 12.
 
 Node.js is a program that you install on your computer. With Node.js you can use the very popular programming language JavaScript to write software. JavaScript is usually used in a browser like Chrome or Firefox but with Node.js it is possible to do a lot more. Combined with other tools, Node.js allows you to write Desktop applications like Word or iTunes, Server applications like Apache, Network applications like Curl or even mobile applications for the iPhone or Android.
 
