@@ -21,7 +21,17 @@ test('Check that src/ looks reasonable', t => {
 
 test('Check that src/learnyouhtml looks reasonable', t => {
   const paths = [
-    'index.html'
+    'hello-world.html',
+    'tags.html',
+    'attributes.html',
+    'inline-tags.html',
+    'headings.html',
+    'lists.html',
+    'tables.html',
+    'blocks.html',
+    'links-and-references.html',
+    'forms.html',
+    'styles-and-scripts.html'
   ]
 
   paths
