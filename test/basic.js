@@ -9,7 +9,8 @@ test('Check that src/ looks reasonable', t => {
   const paths = [
     'learnyouhtml',
     'javascripting',
-    'learnyounode'
+    'learnyounode',
+    'SURVEY.md'
   ]
 
   paths
@@ -103,6 +104,13 @@ test('Check that src/learnyounode looks reasonable', t => {
       assertNoTodo(t, path)
     })
 
+  t.end()
+})
+
+test('Check that src/SURVEY.md looks reasonable', t => {
+  const path = join(SRC_PATH, 'SURVEY.md')
+  assertExists(t, path)
+  assertNoTodo(t, path)
   t.end()
 })
 
